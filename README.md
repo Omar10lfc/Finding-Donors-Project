@@ -50,7 +50,7 @@ The dataset used for this project is the **Census Income Dataset**, which contai
 
 - **`finding_donors.ipynb`**: Jupyter Notebook with the complete analysis and model development process.
 - **`README.md`**: Overview of the project and instructions.
-- **Dataset Files**: Includes the Census Income Dataset.
+- **`census.csv`**: Includes the Census Income Dataset.
 
 ## Requirements
 
